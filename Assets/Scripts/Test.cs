@@ -6,6 +6,8 @@ public class Test : MonoBehaviour
     void Start()
     {
         // Esto es un comentario.
+
+        // Prueba de comentario.
     }
 
     // Update is called once per frame
